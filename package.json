@@ -1,7 +1,7 @@
 {
   "name": "word-count",
   "version": "0.1.0",
-  "homepage": "https://github.com/AYUSH-MUKATI/word-counter.git",
+  "homepage": "https://github.com/AYUSH-MUKATI.github.io/word-counter.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
